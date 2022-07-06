@@ -1,3 +1,5 @@
+# This repo is archived because our changes from the `no_std_write` branch have been merged into the upstream `object` repo.
+
 # `object`
 
 The `object` crate provides a unified interface to working with object files
